@@ -1,1 +1,5 @@
-export * from "./venues"
+import * as venues from "./venues";
+
+export default {
+  venues
+}
